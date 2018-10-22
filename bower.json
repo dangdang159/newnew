@@ -1,0 +1,20 @@
+{
+  "name": "newnew",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "dangdang159 <haidang2104199@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dangdang159/newnew",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
